@@ -15,7 +15,7 @@
 - The classifier has been validated on a testing dataset with a **accuracy of 99.66 %**.
 - All training stages and prediction stages has been throughly visualized & analyzed and thus improvised.
 - The methodology utilized in this project can be generalized and applied to many other computer vision applications.
-- The project presentation notebook is [Notebook Traffic_Light_Classifier]().
+- The project presentation notebook is [Notebook Traffic_Light_Classifier](https://github.com/ThabetElmahdy/traffic-light-classifier/blob/main/Traffic_Light_Classifier.ipynb).
 
 ---
 
